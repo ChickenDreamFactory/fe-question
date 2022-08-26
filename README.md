@@ -5,6 +5,7 @@
 - [Vue集成Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/3)
 - [ueditor使用和坑](https://github.com/ChickenDreamFactory/fe-question/issues/4)
 - [使用百度富文本编辑器UEditor](https://github.com/ChickenDreamFactory/fe-question/issues/5)
+- [如何使用webpack构建Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/6)
 
 ## 勘误及提问
 
