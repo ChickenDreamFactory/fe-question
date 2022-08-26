@@ -2,6 +2,7 @@
 
 - [实战篇：断点续传？文件秒传？手撸大文件上传](https://github.com/ChickenDreamFactory/fe-question/issues/1)
 - [vue使用百度富文本（UEditor）](https://github.com/ChickenDreamFactory/fe-question/issues/2)
+- [Vue集成Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/3)
 
 ## 勘误及提问
 
