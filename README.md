@@ -7,6 +7,7 @@
 - [使用百度富文本编辑器UEditor](https://github.com/ChickenDreamFactory/fe-question/issues/5)
 - [如何使用webpack构建Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/6)
 - [常见富文本编辑器对比](https://github.com/ChickenDreamFactory/fe-question/issues/7)
+- [Vue + Scss 动态切换主题颜色实现换肤](https://github.com/ChickenDreamFactory/fe-question/issues/8)
 
 ## 勘误及提问
 
