@@ -1,3 +1,27 @@
+# fe-question
+
+- [实战篇：断点续传？文件秒传？手撸大文件上传](https://github.com/ChickenDreamFactory/fe-question/issues/1)
+- [vue使用百度富文本（UEditor）](https://github.com/ChickenDreamFactory/fe-question/issues/2)
+- [Vue集成Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/3)
+- [ueditor使用和坑](https://github.com/ChickenDreamFactory/fe-question/issues/4)
+- [使用百度富文本编辑器UEditor](https://github.com/ChickenDreamFactory/fe-question/issues/5)
+- [如何使用webpack构建Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/6)
+- [常见富文本编辑器对比](https://github.com/ChickenDreamFactory/fe-question/issues/7)
+- [Vue + Scss 动态切换主题颜色实现换肤](https://github.com/ChickenDreamFactory/fe-question/issues/8)
+- [团队如何进行Code Review](https://github.com/ChickenDreamFactory/fe-question/issues/9)
+- [如何做前端Code Review](https://github.com/ChickenDreamFactory/fe-question/issues/10)
+- [软件研发团队如何做好项目进度管理](https://github.com/ChickenDreamFactory/fe-question/issues/11)
+- [code review 流程探索](https://github.com/ChickenDreamFactory/fe-question/issues/12)
+- [你不得不知的大厂问题复盘方法论](https://github.com/ChickenDreamFactory/fe-question/issues/13)
+- [软件开发中的风险如何处理](https://github.com/ChickenDreamFactory/fe-question/issues/14)
+- [项目研发流程规范](https://github.com/ChickenDreamFactory/fe-question/issues/15)
+- [为什么要做网站SEO优化？](https://github.com/ChickenDreamFactory/fe-question/issues/16)
+- [前端如何更精准的评估开发时间](https://github.com/ChickenDreamFactory/fe-question/issues/17)
+- [如何正确评估开发时间](https://github.com/ChickenDreamFactory/fe-question/issues/18)
+- [开源字节设计思想](https://github.com/ChickenDreamFactory/fe-question/issues/19)
+- [为什么一定要参与开源项目?](https://github.com/ChickenDreamFactory/fe-question/issues/20)
+
+
 ## 进阶
 
 源码、算法、八股文、亮点的东西、擅长的方面、自己优势、规范、团队、技术选项、
@@ -17,25 +41,6 @@
 - 如何做前端架构
 - 怎么把控开发进度、评估风险
 - 你是如何进行团队管理的
-
-# fe-question
-
-- [实战篇：断点续传？文件秒传？手撸大文件上传](https://github.com/ChickenDreamFactory/fe-question/issues/1)
-- [vue使用百度富文本（UEditor）](https://github.com/ChickenDreamFactory/fe-question/issues/2)
-- [Vue集成Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/3)
-- [ueditor使用和坑](https://github.com/ChickenDreamFactory/fe-question/issues/4)
-- [使用百度富文本编辑器UEditor](https://github.com/ChickenDreamFactory/fe-question/issues/5)
-- [如何使用webpack构建Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/6)
-- [常见富文本编辑器对比](https://github.com/ChickenDreamFactory/fe-question/issues/7)
-- [Vue + Scss 动态切换主题颜色实现换肤](https://github.com/ChickenDreamFactory/fe-question/issues/8)
-- [团队如何进行Code Review](https://github.com/ChickenDreamFactory/fe-question/issues/9)
-- [如何做前端Code Review](https://github.com/ChickenDreamFactory/fe-question/issues/10)
-- [软件研发团队如何做好项目进度管理](https://github.com/ChickenDreamFactory/fe-question/issues/11)
-- [code review 流程探索](https://github.com/ChickenDreamFactory/fe-question/issues/12)
-- [你不得不知的大厂问题复盘方法论](https://github.com/ChickenDreamFactory/fe-question/issues/13)
-- [软件开发中的风险如何处理](https://github.com/ChickenDreamFactory/fe-question/issues/14)
-- [项目研发流程规范](https://github.com/ChickenDreamFactory/fe-question/issues/15)
-- [为什么要做网站SEO优化？](https://github.com/ChickenDreamFactory/fe-question/issues/16)
 
 ## 勘误及提问
 
