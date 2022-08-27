@@ -8,6 +8,11 @@
 - [如何使用webpack构建Ueditor](https://github.com/ChickenDreamFactory/fe-question/issues/6)
 - [常见富文本编辑器对比](https://github.com/ChickenDreamFactory/fe-question/issues/7)
 - [Vue + Scss 动态切换主题颜色实现换肤](https://github.com/ChickenDreamFactory/fe-question/issues/8)
+- [团队如何进行Code Review](https://github.com/ChickenDreamFactory/fe-question/issues/9)
+- [如何做前端Code Review](https://github.com/ChickenDreamFactory/fe-question/issues/10)
+- [软件研发团队如何做好项目进度管理](https://github.com/ChickenDreamFactory/fe-question/issues/11)
+- [code review 流程探索](https://github.com/ChickenDreamFactory/fe-question/issues/12)
+- [你不得不知的大厂问题复盘方法论](https://github.com/ChickenDreamFactory/fe-question/issues/13)
 
 ## 勘误及提问
 
