@@ -20,7 +20,7 @@
 - [如何正确评估开发时间](https://github.com/ChickenDreamFactory/fe-question/issues/18)
 - [开源字节设计思想](https://github.com/ChickenDreamFactory/fe-question/issues/19)
 - [为什么一定要参与开源项目?](https://github.com/ChickenDreamFactory/fe-question/issues/20)
-
+- [如何管理好你团队的前端代码？](https://github.com/ChickenDreamFactory/fe-question/issues/21)
 
 ## 进阶
 
