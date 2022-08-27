@@ -33,6 +33,9 @@
 - [软件研发团队如何做好项目进度管理](https://github.com/ChickenDreamFactory/fe-question/issues/11)
 - [code review 流程探索](https://github.com/ChickenDreamFactory/fe-question/issues/12)
 - [你不得不知的大厂问题复盘方法论](https://github.com/ChickenDreamFactory/fe-question/issues/13)
+- [软件开发中的风险如何处理](https://github.com/ChickenDreamFactory/fe-question/issues/14)
+- [项目研发流程规范](https://github.com/ChickenDreamFactory/fe-question/issues/15)
+- [为什么要做网站SEO优化？](https://github.com/ChickenDreamFactory/fe-question/issues/16)
 
 ## 勘误及提问
 
