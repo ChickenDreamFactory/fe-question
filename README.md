@@ -24,6 +24,10 @@
 - [前端项目的工程化](https://github.com/ChickenDreamFactory/fe-question/issues/22)
 - [移动端适配及PC端适配心得总结体会](https://github.com/ChickenDreamFactory/fe-question/issues/23)
 
+## http系列
+
+- [前端模拟面试字数过23477万内容｜刷题打卡](https://juejin.cn/post/6948576107163549732)
+
 ## 大厂
 
 - [[蚂蚁集团]使用 JavaScript Proxy实现简单的数据绑定](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/59)
