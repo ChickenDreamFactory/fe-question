@@ -23,6 +23,7 @@
 - [如何管理好你团队的前端代码？](https://github.com/ChickenDreamFactory/fe-question/issues/21)
 - [前端项目的工程化](https://github.com/ChickenDreamFactory/fe-question/issues/22)
 - [移动端适配及PC端适配心得总结体会](https://github.com/ChickenDreamFactory/fe-question/issues/23)
+- [GitLab CI/CD 介绍](https://github.com/ChickenDreamFactory/fe-question/issues/24)
 
 ## http系列
 
