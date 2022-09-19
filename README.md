@@ -25,6 +25,7 @@
 - [移动端适配及PC端适配心得总结体会](https://github.com/ChickenDreamFactory/fe-question/issues/23)
 - [GitLab CI/CD 介绍](https://github.com/ChickenDreamFactory/fe-question/issues/24)
 - [捕获、冒泡及事件委托](https://liu97.github.io/2018/03/12/js%E4%BA%8B%E4%BB%B6%E6%A8%A1%E5%9E%8B%E7%B3%BB%E5%88%97%E7%9F%A5%E8%AF%86%E4%BA%8C/)
+- [js事件模型系列知识(一)事件基础知识](https://liu97.github.io/2018/03/11/js%E4%BA%8B%E4%BB%B6%E6%A8%A1%E5%9E%8B%E7%B3%BB%E5%88%97%E7%9F%A5%E8%AF%86%E4%B8%80%E4%BA%8B%E4%BB%B6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 
 ## http系列
 
