@@ -1,3 +1,7 @@
+# 复习
+
+- [从多线程到Event Loop全面梳理](https://juejin.cn/post/6844903919789801486)
+
 # fe-question
 
 - [实战篇：断点续传？文件秒传？手撸大文件上传](https://github.com/ChickenDreamFactory/fe-question/issues/1)
@@ -100,8 +104,7 @@ Outer div click处理程序将 hello outer打印到控制台。Inner div click�
 Doctype 不存在。
 使用了 HTML4 Doctype，但 HTML 页面使用了 HTML5 的标签，如 <audio> 或 <video>。它会导致任何错误吗？
 使用了无效的 Doctype。
-
-
+ 
 ## 进阶
 
 源码、算法、八股文、亮点的东西、擅长的方面、自己优势、规范、团队、技术选项、
